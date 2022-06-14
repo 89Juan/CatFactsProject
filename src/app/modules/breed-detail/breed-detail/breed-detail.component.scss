@@ -1,0 +1,54 @@
+.not-loaded-page {
+    width: 95vw;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.spinner {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.spinner ::ng-deep circle {
+    stroke: rgb(209, 222, 226);
+    stroke-width: 5% !important;
+}
+
+.page {
+    width: 95vw;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.details {
+    height: 90vh;
+    width: fit-content;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+.facts {
+    margin-top: 10px;
+}
+
+.button-div {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(209, 222, 226);
+    color: black;
+}
+
+.divider {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
